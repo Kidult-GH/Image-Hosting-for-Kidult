@@ -1,2 +1,2 @@
 # Image-Hosting-for-Kidult.md
-Image Hosting Service for Kidult
+Setup for uploading images inserted in Typora (code editor) through PicGo (image upload service) to GitHub (image storage)
